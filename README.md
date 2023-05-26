@@ -1,4 +1,4 @@
 # SHC-Graduation-Project
 
 
-GP is under development!
+Graduation Project is under development!
